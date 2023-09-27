@@ -1,4 +1,4 @@
-# Simulation-Project
+## Simulation-Project
 ###
 A car insurance expert center is working every day from 8 am to 6 pm. The door of the center is closed at 6:00 p.m. and only the cars that are inside the center until that moment are served until the system is empty. After the end of the working hours of the center every day, if there is a queue outside the premises, it will also disappear. In order to investigate and carry out the necessary measures, both cars (culprit and plaintiff) must be present at the same time. If one of the cars entered before the closing of the center, the second car can also enter after 6 pm. Distribution The arrival of clients is a function of snowfall and rain and the time period of arrival. Historical data shows that the distribution of arrival of clients is different in the hours of 8 to 10, 10 to 10, 13 to 15, and 15 to 18.
 
